@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.tutorialsninja.qa.base.Base;
 import com.tutorialsninja.qa.pages.SearchPage;
 
-//Comment Updated
+//Comment Updated - added more details
 
 public class SearchTest extends Base {
 	
