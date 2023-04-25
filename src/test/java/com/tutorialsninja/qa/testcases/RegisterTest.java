@@ -12,6 +12,7 @@ import com.tutorialsninja.qa.pages.RegisterAccountSuccssfulPage;
 import com.tutorialsninja.qa.pages.RegisterPage;
 import com.tutorialsninja.qa.utils.Utilities;
 
+//Comment updated in RegisterTest class
 
 public class RegisterTest extends Base {
 	
